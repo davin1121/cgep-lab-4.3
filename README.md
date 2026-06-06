@@ -1,4 +1,4 @@
-# GRC Evidence Pipeline — AWS + GitHub Actions
+# GRC Evidence Pipeline - AWS + GitHub Actions
 
 ## What This Is
 
